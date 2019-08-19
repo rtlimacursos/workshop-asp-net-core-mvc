@@ -23,7 +23,7 @@ namespace SalesWebMvc.Data
                  return; // db ja foi populado
              }
 
-             Department d1 = new Department(0, "Computers");
+              Department d1 = new Department(0, "Computers");
               Department d2 = new Department(0, "Eletronics");
               Department d3 = new Department(0, "Fashion");
               Department d4 = new Department(0, "Books");
